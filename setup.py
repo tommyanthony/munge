@@ -1,9 +1,9 @@
 from setuptools import setup
 
 setup(
-    name='converter',
+    name='munge',
     version='0.1',
-    py_modules=['cli'],
+    py_modules=['munge'],
     include_package_data=True,
     install_requires=[
         'click>=4.0',
@@ -11,6 +11,6 @@ setup(
     ],
     entry_points="""
         [console_scripts]
-        converter=cli:convert
+        munge=munge.cli:convert
     """
 )

@@ -1,0 +1,26 @@
+url,description,language,starnum
+/zsaleeba/picoc,A very small C interpreter,C,413
+/bpampuch/pdfmake,Client/server side PDF printing in pure JavaScript,JavaScript,383
+/bevacqua/woofmark,"Barking up the DOM tree. A modular, progressive, and beautiful Markdown and HTML editor",JavaScript,381
+/cjb/GitTorrent,A decentralization of GitHub using BitTorrent and Bitcoin,JavaScript,285
+/chrisbanes/cheesesquare,Demos the new Android Design library.,Java,272
+/RocketChat/Rocket.Chat,"Have your own Slack like online chat, built with Meteor.",CSS,279
+/sindresorhus/awesome,A curated list of awesome lists,none,182
+/jtleek/datasharing,The Leek group guide to data sharing,none,9
+/chrisnager/ungrid,ungrid - the simplest responsive css grid,CSS,153
+/jariz/vibrant.js,Extract prominent colors from an image. JS port of Android's Palette.,JavaScript,147
+/forkingdog/FDFullscreenPopGesture,A UINavigationController's category to enable fullscreen pop gesture with iOS7+ system style.,Objective-C,134
+/astoilkov/jsblocks,Better MV-ish Framework,JavaScript,135
+/loadfive/Knwl.js,A Javascript Natural Language Processor (NLP).,JavaScript,132
+/ppamorim/Cult,Toolbar is so boring,Java,127
+/jeanphix/Ghost.py,Webkit based scriptable web browser for python.,Python,127
+/auchenberg/browser-remote,Debug your user's browser remotely via Chrome DevTools.,JavaScript,112
+/liu044100/SmileTouchID,A Library for configure Touch ID & passcode conveniently,Objective-C,102
+/google/material-design-icons,Material Design icons by Google,HTML,93
+/davidesantangelo/webinspector,"Ruby gem to inspect completely a web page. It scrapes a given URL, and returns you its meta, links, images more.",Ruby,95
+/sindresorhus/awesome-scifi,Sci-Fi worth consuming,none,94
+/lawloretienne/SpannableTextView,A TextView that accepts one or more spans,Java,93
+/Polymer/polymer,Leverage the future of the web platform today.,HTML,92
+/astoilkov/console.message,Console messages for cool kids,JavaScript,88
+/wangjiegulu/WaveCompat,Wave effect of activity animation,Java,81
+/race604/FlyRefresh,The implementation of https://dribbble.com/shots/2067564-Replace,Java,74

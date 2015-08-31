@@ -53,7 +53,7 @@ Washington,George
 > cat output.json
 [{"first_name": "John", "last_name": "Adams"}, {"first_name": "George", "last_name": "Washington"}]
 ```
-Munge by default reads from standard in.
+Munge by default reads from standard in and prints to stdout, allowing it to interact with all the other UNIX utilities you're used to.
 ```shell
 > curl https://raw.githubusercontent.com/rankam/napoleon/ce658a0ff1a16debc240a6c9b3790ac1b9a8efd5/original_data/cities.json | munge csv -o cities.csv
 > cat cities.csv
